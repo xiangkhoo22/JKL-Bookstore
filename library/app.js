@@ -114,7 +114,7 @@ menuItems.forEach((item, index) => {
 
     // reset the timer of the autoplay
     clearInterval(slideInterval);
-    slideInterval = setInterval(autoSlider, 15000);
+    slideInterval = setInterval(autoSlider, 20000);
 
     //change the choosen product detials
     choosenProduct = products[index];
@@ -196,7 +196,7 @@ bookListButtons.forEach(button => {
         wrapper.style.transform = `translateX(${-100 * slideIndex}vw)`;
 
         clearInterval(slideInterval);
-        slideInterval = setInterval(autoSlider, 7500);
+        slideInterval = setInterval(autoSlider, 20000);
 
         document.querySelector("#product").scrollIntoView({ behavior: "smooth" });
     });
