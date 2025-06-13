@@ -1,3 +1,4 @@
+verson 1.4
 Read me before open: 
 To use the website, open xampp (start apache and MySQL), create database with name "jkl bookstore",
 table name "payment"
