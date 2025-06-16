@@ -1,4 +1,4 @@
-<head>JKL Bookstore Verson 1.4</head>
+<head>JKL Bookstore Demo</head>
 <h2>Read me before open:</h2> 
 <h3>To set up the website,</h3>
 <p>1. Run xampp (start apache and MySQL),<br>
