@@ -1,4 +1,4 @@
-<h1>Credits</h1>
+<h1>Credit</h1>
 <p>Thanks of the help from:<br>
 Akmal - Provided the template of website including design<br>
 Cikgu Haziah - Gave advises and suggestions<br>
